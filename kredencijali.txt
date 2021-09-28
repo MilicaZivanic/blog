@@ -1,0 +1,6 @@
+1. Admin
+   email: milica@gmail.com | password: milica
+2. Autor
+   email: katarina@gmail.com | password: katarina
+3. User
+   email: marko@gmail.com | password: marko
